@@ -39,7 +39,7 @@ onMounted(loadTasks)
 
 <template>
   <header>
-    <div class="wrapper">
+    <div>
       <h1>TODO List</h1>
     </div>
   </header>

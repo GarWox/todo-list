@@ -58,3 +58,8 @@ body {
     font-size: 16px;
   }
 }
+@media (min-width: 469px) and (max-width: 603px) {
+  body {
+    font-size: 18px;
+  }
+}
